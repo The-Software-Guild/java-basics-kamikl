@@ -114,6 +114,7 @@ public class RockPaperScissors {
             System.out.println("Incorrect number of rounds entered.");
             System.exit(0);
         }
+        //Otherwise, start game for given number of rounds
         play(rounds);
     }
 
