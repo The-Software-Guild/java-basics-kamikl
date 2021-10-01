@@ -1,8 +1,10 @@
+//Import necessary package
 import java.util.Scanner;
 
 public class HealthyHearts {
 
     public static void main(String[] args) {
+        //Initialise Scanner object
         Scanner inputReader = new Scanner(System.in);
         //Prompt user for age
         System.out.println("What is your age?");

@@ -1,3 +1,4 @@
+//Import necessary packages
 import java.util.Scanner;
 import java.util.Random;
 
