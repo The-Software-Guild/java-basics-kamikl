@@ -1,4 +1,5 @@
-package org.c130.javabasics;//Import necessary package
+package org.c130.javabasics;
+//Import necessary package
 import java.util.Scanner;
 
 public class HealthyHearts {
