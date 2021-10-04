@@ -1,4 +1,4 @@
-//Import necessary packages
+package org.c130.javabasics;//Import necessary packages
 import java.util.Scanner;
 import java.util.Random;
 
@@ -10,7 +10,6 @@ public class DogGenetics {
         Scanner readerInput = new Scanner(System.in);
         //Initialise breed % variables
         int breed1, breed2, breed3, breed4, breed5;
-
 
         //Prompt for dog name
         System.out.println("What's your dogs name?");
@@ -32,7 +31,6 @@ public class DogGenetics {
         System.out.println(breed3+"% Dramatic RedNosed Asian Pug");
         System.out.println(breed4+"% Common Cur");
         System.out.println(breed5+"% King Doberman");
-
         System.out.println("Wow, that's QUITE the dog!");
 
     }

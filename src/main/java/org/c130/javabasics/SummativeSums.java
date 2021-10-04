@@ -1,3 +1,5 @@
+package org.c130.javabasics;
+
 public class SummativeSums {
 
     public static void main(String[] args) {

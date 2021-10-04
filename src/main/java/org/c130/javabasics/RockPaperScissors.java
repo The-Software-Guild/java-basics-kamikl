@@ -1,4 +1,4 @@
-//Import necessary packages
+package org.c130.javabasics;//Import necessary packages
 import java.util.Scanner;
 import java.util.Random;
 
